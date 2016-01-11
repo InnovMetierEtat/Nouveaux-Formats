@@ -2,7 +2,7 @@
 
 ## Nouveaux formats de collaboration entre Etudiants, Agents et Entités Publiques
 
-* Synthèse de la matinée: [Synthèse Pdf](medias/NxF-synthese.pdf),[Synthèse ODT](medias/NxF-synthese.odt),[Synthèse DOCX](medias/NxF-synthese.docx) 
+* Synthèse de la matinée: [Synthèse Pdf](medias/NxF-synthese.pdf), [Synthèse ODT](medias/NxF-synthese.odt), [Synthèse DOCX](medias/NxF-synthese.docx) 
 * Présentation APIE: [Présentation Pdf](medias/NxF-pres.pdf), [Présentation ODP](medias/NxF-pres.odp), [Présentation PPTX](medias/NxF-pres.pptx)
 * Présentation de Didier Pradon (en cours d'upload)
 * Présentation de Sophie Pène (en cours d'upload)
