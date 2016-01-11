@@ -4,8 +4,8 @@
 
 * Synthèse de la matinée: [Synthèse Pdf](medias/NxF-synthese.pdf), [Synthèse ODT](medias/NxF-synthese.odt), [Synthèse DOCX](medias/NxF-synthese.docx) 
 * Présentation APIE: [Présentation Pdf](medias/NxF-pres.pdf), [Présentation ODP](medias/NxF-pres.odp), [Présentation PPTX](medias/NxF-pres.pptx)
-* Présentation de Didier Pradon (en cours d'upload)
-* Présentation de Sophie Pène (en cours d'upload)
+* Présentation de Didier Pradon: [aphp.pdf](medias/aphp.pdf)
+* Présentation de Sophie Pène: (verbatim disponible sur demande)
 
 De nombreuses entités publiques mènent des projets d’innovation visant à améliorer la qualité des services publics au profit des usagers, mais aussi à créer de nouvelles méthodes de travail, voire des inventions techniques facilitant l’exécution des missions des agents. 
 
