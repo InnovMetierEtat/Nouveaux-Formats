@@ -1,3 +1,18 @@
+# Atelier APIE du 16 juin 2016
+
+## Nouveaux formats d'innovation métier
+
+* Présentation APIE: [Présentation Pdf](medias/2016-16-16_nouveaux formats de l'innovation.pdf)
+* Présentation VDP: sur demande
+* Synthèse: [Synthèse Pdf](medias/Synthese.pdf), [Synthèse Docx](medias/Synthese.docx)
+* Résultat du Double Diamant: bientôt
+
+Des formats nouveaux d’innovation, plus collaboratifs et ouverts, se développent, y compris au sein de l’administration. Accélérateurs de l’innovation, ces nouveaux formats posent également des défis pour les administrations souhaitant les expérimenter. 
+
+Cet événement s’adresse aux agents publics impliqués dans des démarches d’innovation, notamment liées à la conception et au prototypage de solutions expérimentales en réponse à des besoins métier (solutions techniques, méthodes, procédés, bonnes pratiques). L’atelier présentere une revue de ces nouveaux formats et leurs origines. Il est illustré par des exemples en France et à l’international, avec une attention particulière sur des séquences d’innovation détaillées par leurs initiateurs. 
+
+![Double Diamant](medias/dd.jpg)
+
 # Matinée APIE du 1er décembre 2015
 
 ## Nouveaux formats de collaboration entre Etudiants, Agents et Entités Publiques
