@@ -9,7 +9,7 @@
 
 Des formats nouveaux d’innovation, plus collaboratifs et ouverts, se développent, y compris au sein de l’administration. Accélérateurs de l’innovation, ces nouveaux formats posent également des défis pour les administrations souhaitant les expérimenter. 
 
-Cet événement s’adresse aux agents publics impliqués dans des démarches d’innovation, notamment liées à la conception et au prototypage de solutions expérimentales en réponse à des besoins métier (solutions techniques, méthodes, procédés, bonnes pratiques). L’atelier présentere une revue de ces nouveaux formats et leurs origines. Il est illustré par des exemples en France et à l’international, avec une attention particulière sur des séquences d’innovation détaillées par leurs initiateurs. 
+Cet événement s’adresse aux agents publics impliqués dans des démarches d’innovation, notamment liées à la conception et au prototypage de solutions expérimentales en réponse à des besoins métier (solutions techniques, méthodes, procédés, bonnes pratiques). L’atelier présente une revue de ces nouveaux formats et leurs origines. Il est illustré par des exemples en France et à l’international, avec une attention particulière sur des séquences d’innovation détaillées par leurs initiateurs. 
 
 ![Double Diamant](medias/dd.jpg)
 
