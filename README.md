@@ -5,7 +5,7 @@
 * Présentation APIE: [Présentation Pdf](medias/2016-16-16_nouveaux formats de l'innovation.pdf)
 * Présentation VDP: sur demande
 * Synthèse: [Synthèse Pdf](medias/Synthese.pdf), [Synthèse Docx](medias/Synthese.docx)
-* Résultat du Double Diamant: bientôt
+* Résultat du Double Diamant: [Double Diamant](medias/DD.pdf)
 
 Des formats nouveaux d’innovation, plus collaboratifs et ouverts, se développent, y compris au sein de l’administration. Accélérateurs de l’innovation, ces nouveaux formats posent également des défis pour les administrations souhaitant les expérimenter. 
 
