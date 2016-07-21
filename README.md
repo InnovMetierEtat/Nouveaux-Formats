@@ -17,9 +17,13 @@ Cet événement s’adresse aux agents publics impliqués dans des démarches d�
 
 #### Diamant Visuel (matière première)
 
+--> proposez individuellement un thème qui résonne avec vos préocuppations puis collectivement faite "remonter" celui qui vous semble pertinent au regard (et sans le défendre verbalement) de l'ensemble.
+
 ![Diamant Visuel](medias/dvis.png)
 
 #### Diamant Verbal (non-ordonné)
+
+--> à partir du thème de la "Fusion de millions d'idées", proposer à l'oral et de manière succinte des pistes concrètes pour le mettre en oeuvre
 
 1. Zone d'échange Temporaire ZET
 
