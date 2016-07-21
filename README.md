@@ -13,13 +13,13 @@ Cet événement s’adresse aux agents publics impliqués dans des démarches d�
 
 ![Double Diamant](medias/dd.jpg)
 
-Résultats de l'exercice en fin de séance:
+### Résultats de l'exercice en fin de séance:
 
-Diamant Visuel (matière première)
+#### Diamant Visuel (matière première)
 
 ![Diamant Visuel](medias/dvis.png)
 
-Diamant Verbal (non-ordonné)
+#### Diamant Verbal (non-ordonné)
 
 1. Zone d'échange Temporaire ZET
 
