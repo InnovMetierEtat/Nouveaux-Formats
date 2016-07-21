@@ -13,6 +13,45 @@ Cet événement s’adresse aux agents publics impliqués dans des démarches d�
 
 ![Double Diamant](medias/dd.jpg)
 
+Résultats de l'exercice en fin de séance:
+
+Diamant Visuel (matière première)
+
+![Diamant Visuel](medias/dvis.png)
+
+Diamant Verbal (non-ordonné)
+
+1. Zone d'échange Temporaire ZET
+
+2. Atelier participatif et clustering classification hiérarchique mots-clefs
+
+3. Communauté sur plateforme collaborative plus ateliers participatifs
+
+4. Une méthode d'analyse des idées avec une grille multicritères et cotation
+
+5. Selection naturelle pour essayer un grand nombre d'idées pour les restreindre et retenir l'essentiel
+
+6. Groupes de Travail par thématiques
+
+7. Réunions par thèmes pour partager, arbitrer
+
+8. Ateliers de co-construction, de co-élaboration
+
+9. Intelligence Artificielle: programme qui regroupe toutes les idées connues pour sélectionner des groupes de mots
+
+10. Analyse Sémantique.
+
+11. Outil informatique capable de regrouper les idées et donner à voir leur proximité pour faciliter les discussions.
+
+12. Programme informatique capable de faire remonter les éléments les plus récurrents.
+
+13. Plateforme ouverte avec un algorithme qui permet de faire matcher les mots pour regrouper ou synthétiser un post it qui serait diffusé à tous les apporteurs d'idée.
+
+14. Créer un réseau social autour d'une question axé sur le besoin et du coup faire émerger des likes et des votes
+
+15. Proposition d'idées sur une plateforme en ligne soumise à un vote et ensuite comité opérationnel pour le suivre
+
+
 # Matinée APIE du 1er décembre 2015
 
 ## Nouveaux formats de collaboration entre Etudiants, Agents et Entités Publiques
