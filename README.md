@@ -1,3 +1,22 @@
+# Atelier APIE du 23 mars 2017
+
+## Innovation et Savoir Faire
+Identifier, Accompagner et Valoriser une innovation métier issue d’un savoir-faire
+
+* Compte Rendu APIE: TBD
+* Présentation Intervenant: TBD
+
+# Matinée APIE du 25 janvier 2017
+
+## Animer une communauté d’innovation ouverte
+
+* Compte Rendu APIE: [Présentation Pdf](medias/CR Matinée APIE 250117.pdf)
+* Présentation Polytechnique: [Présentation PPTX](170125 - X-Entrepreneurship - Short overall presentation - APIE-Somekh.pptx)
+
+L’APIE a organisé dans le cadre de ses Matinées, une rencontre thématique intitulée « Animer une communauté d’innovation ouverte », le mercredi 25 janvier de 9h à 11h dans ses locaux (5 place des vins de France, 75012 – Métro Cour Saint Emilion). 
+
+Cette matinée visait à explorer les bonnes pratiques en matière d’animation d’une communauté de l’innovation afin de bâtir des liens durables avec des tiers. L’objectif est de créer une opportunité d’échange entre différentes administrations ayant mené des initiatives dans ce domaine ou souhaitant engager une démarche dans ce sens. En ouverture, le département de l’entrepreneuriat et de l’innovation de l’Ecole Polytechnique présenta son retour d’expérience des actions engagées en matière d’animation d’une communauté.
+
 # Atelier APIE du 16 juin 2016
 
 ## Nouveaux formats d'innovation métier
