@@ -10,7 +10,7 @@ Identifier, Accompagner et Valoriser une innovation métier issue d’un savoir-
 
 ## Animer une communauté d’innovation ouverte
 
-* Compte Rendu APIE: [Présentation Pdf](medias/CR Matinée APIE 250117.pdf), [Présentation Docx](medias/CR Matinée APIE 250117.docx), [Présentation odt](medias/CR Matinée APIE 250117.odt)
+* Compte Rendu APIE: [CR Pdf](medias/CR Matinée APIE 250117.pdf), [CR Docx](medias/CR Matinée APIE 250117.docx), [CR odt](medias/CR Matinée APIE 250117.odt)
 * Présentation Polytechnique: [Présentation Pdf](medias/170125 - X-Entrepreneurship - Short overall presentation - APIE-Somekh.pdf), [Présentation PPTX](medias/170125 - X-Entrepreneurship - Short overall presentation - APIE-Somekh.pptx) 
 
 L’APIE a organisé dans le cadre de ses Matinées, une rencontre thématique intitulée « Animer une communauté d’innovation ouverte », le mercredi 25 janvier de 9h à 11h dans ses locaux (5 place des vins de France, 75012 – Métro Cour Saint Emilion). 
